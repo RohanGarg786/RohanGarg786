@@ -1,3 +1,6 @@
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGY-J4EvYA/image- scale 191-1128/0/16668836684287e-1675425600&v=beta&t=550E-n5% gDvzZFdOvK7oorksu- JESWk3DdbbvU2sal](https://codegrills.in)
+
+<img align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
 🌱 I’m currently learning React js<br><br>📫 How to reach me gargrohan026@gmail.com<br><br>⚡ Fun fact I am self motivated person
