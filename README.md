@@ -2,7 +2,7 @@
 <img align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning React js<br><br>📫 How to reach me gargrohan026@gmail.com<br><br>⚡ Fun fact I am self motivated person
+🌱 I’m Full Stack Web Developer who loves to learn new things. <br><br>📫 How to reach me gargrohan026@gmail.com<br><br>⚡ Fun fact I am self motivated person
 
 
 ## 🌐 Socials:
